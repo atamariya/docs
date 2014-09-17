@@ -12,13 +12,14 @@ The Spark CLI is a powerful tool for interacting with your cores and the Spark C
 Installing
 =======
 
-  First, make sure you have [node.js](http://nodejs.org/) installed!
+  First, make sure you have [node.js](http://nodejs.org/) and npm installed!
 
   Next, open a command prompt or terminal, and install by typing:
 
 ```sh
 # how to install the spark-cli
-$ npm install -g spark-cli
+root# apt-get install node.js npm
+root# npm install -g spark-cli
 $ spark cloud login
 ```
 
